@@ -4,7 +4,7 @@ A simple demo project showcasing **Docker**, **Multi-Stage Builds**, and **Docke
 
 ## 🖼️ Project Architecture Overview
 
-
+![](image_0.png.jpg)
  📂 Project Structure
 ```text
 .
