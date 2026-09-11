@@ -13,3 +13,11 @@ A simple demo project showcasing **Docker**, **Multi-Stage Builds**, and **Docke
 ├── docker-compose.yml  # Services orchestration
 ├── requirements.txt    # Dependencies (Python demo)
 └── app.py               #Application code (Python demo)
+
+## 🚀 Terminal / App Output
+![Terminal Output]
+
+
+
+
+(terminal.png)
